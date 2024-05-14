@@ -1,0 +1,5 @@
+fastapi
+ruff
+black
+pydantic-settings
+requests
